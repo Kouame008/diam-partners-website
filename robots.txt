@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /mentions-legales.html
+Disallow: /confidentialite.html
+Disallow: /en/mentions-legales.html
+Disallow: /en/confidentialite.html
+Disallow: /zh/mentions-legales.html
+Disallow: /zh/confidentialite.html
+Disallow: /ar/mentions-legales.html
+Disallow: /ar/confidentialite.html
+
+Sitemap: https://www.diampartners.com/sitemap.xml
